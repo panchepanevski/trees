@@ -1,0 +1,19 @@
+{
+  "trees": [
+    {
+      "id": "1",
+      "title": "Banyan Tree",
+      "description": "Banyan trees are mostly seen in different regions of the country and are the national tree of India that grows in a special type of soil. The oldest Banyan tree is present in Kolkata. This huge type of tree has extensive branches in order to provide support to it, having height more than 21 m. Leaves are of 10-20 cm long. Leaves are used as plates in India. Wood is used for making furniture, door, etc. Leaf, seeds and bark are useful for various diseases and disorders."
+    },
+    {
+      "id": "2",
+      "title": "Neem Tree",
+      "description": "The most common and popular tree of probably every household is the neem tree that has bright leaves and goes up to the height of 100 feet. A straight and rough trunk is seen in neem trees. Each part of the Neem trees is essential for different purposes. They are used to treat chicken pox and used in various medicines. Wood is also used in south India for furniture making. Neem can be used as fertilisers for different plants."
+    },
+    {
+      "id": "3",
+      "title": "Peepal Tree",
+      "description": "It is a fast-growing tree having heart-shaped leaves with a large crown. It sheds its leaves in the month of March and April. Peepal tree is used for various purposes, as ear drop, heals wounds, root bark cleans ulcers, prevent gum diseases, urinary troubles, the fruit is useful for asthma and many more. The leaves are also used as decorative items."
+    }
+  ]
+}

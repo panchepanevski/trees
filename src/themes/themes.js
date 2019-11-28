@@ -2,9 +2,9 @@ const themes = {
   defaultTheme: {
     bg: "#fff",
     primary: "#fff",
-    secondary: "#fd9644",
-    thertiary: "#fed330",
-    links: "#26de81",
+    secondary: "#fed330",
+    thertiary: "#fd9644",
+    links: "#fd9644",
     text: "#1e272e"
   },
   darkTheme: {
